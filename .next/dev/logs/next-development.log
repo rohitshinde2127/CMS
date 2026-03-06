@@ -1,2 +1,629 @@
-[00:00:03.178] Server  LOG     ✓ Ready in 2.2s
-[00:00:14.295] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:02.887] Server  LOG     ✓ Ready in 1875ms
+[00:00:04.096] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:07.946] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:49.269] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.280] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.284] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.286] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.290] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.294] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.297] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.300] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.303] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.305] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.308] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.310] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.325] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.328] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.330] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.332] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.334] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.336] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.338] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.341] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.375] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.439] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.441] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.466] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.470] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.475] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.477] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:49.480] Server  LOG     ✓ Compiled in 995ms
+[00:00:51.120] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:51.123] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:51.123] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:51.123] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:51.123] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:51.156] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:51.165] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:51.413] Browser ERROR   uncaughtError: Error: ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:51.473] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:51.473] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:51.473] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:51.473] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:51.473] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:52.462] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:52.462] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:52.462] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './signup/page'
+  1 |
+  2 | import Login from "./login/page";
+> 3 | import SignUp from "./signup/page";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 | return(<>
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:55.815] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:17.264] Server  LOG     ✓ Compiled in 150ms
+[00:05:34.976] Server  LOG     ✓ Compiled in 144ms
+[00:07:13.610] Server  LOG     ✓ Compiled in 161ms
+[00:07:29.355] Server  LOG     ✓ Compiled in 65ms
+[00:08:15.110] Server  LOG     ✓ Compiled in 157ms
+[00:08:26.832] Server  LOG     ✓ Compiled in 47ms
+[00:08:28.046] Server  LOG     ✓ Compiled in 66ms
+[00:09:30.770] Server  LOG     ✓ Compiled in 70ms
+[00:10:13.784] Server  LOG     ✓ Compiled in 70ms
+[00:10:56.004] Browser ERROR   {}
+[00:10:56.265] Browser ERROR   {}
+[00:11:03.429] Browser ERROR   {}
+[00:11:04.478] Browser ERROR   {}
+[00:11:04.924] Browser ERROR   {}
+[00:11:05.145] Browser ERROR   {}
+[00:11:22.371] Browser ERROR   {}
+[00:11:23.324] Browser ERROR   {}
+[00:11:24.462] Browser ERROR   {}
+[00:11:25.494] Browser ERROR   {}
+[00:11:25.982] Browser ERROR   {}
+[00:11:26.197] Browser ERROR   {}
+[00:11:43.465] Browser ERROR   {}
+[00:11:44.474] Browser ERROR   {}
+[00:11:46.463] Browser ERROR   {}
+[00:11:55.753] Server  LOG     ✓ Compiled in 61ms
+[00:12:44.465] Browser ERROR   {}
+[00:12:44.465] Browser ERROR   {}

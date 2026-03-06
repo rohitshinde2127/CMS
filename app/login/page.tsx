@@ -2,7 +2,7 @@
 import { useState } from "react";
 import Link from "next/link";
 
-export default function Home() {
+export default function Login(){
 
   const [data, setData] = useState({
     email: "",
@@ -49,7 +49,7 @@ export default function Home() {
       <div className="bg-white shadow-2xl rounded-2xl w-full max-w-md p-8">
 
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-6">
-          Create Account
+          Login 
         </h2>
 
         <form className="space-y-4" onSubmit={handleSubmit}>
@@ -61,7 +61,7 @@ export default function Home() {
               type="email"
               name="email"
               placeholder="Enter your email"
-              className="w-full mt-1 px-4 py-2 text-black ed-lg focus:ring-2 focus:ring-purple-500 outline-none transition"
+              className="w-full mt-1 px-4 text-black ounded-lg focus:ring-2 focus:ring-purple-500 outline-none transition"
               value={data.email}
               onChange={handleChange}
             />
@@ -74,7 +74,7 @@ export default function Home() {
               type="password"
               name="password"
               placeholder="Enter password"
-              className="w-full mt-1 px-4 py-2 border rounded-lg focus:ring-2 focus:ring-purple-500 outline-none transition"
+              className="w-full mt-14 text-black  rounded-lg focus:ring-2 focus:ring-purple-500 outline-none transition"
               value={data.password}
               onChange={handleChange}
             />
@@ -85,7 +85,7 @@ export default function Home() {
             type="submit"
             className="w-full bg-purple-600 hover:bg-purple-700 text-white py-2 rounded-lg font-semibold transition duration-300"
           >
-            Register
+            LOGIN
           </button>
 
           {/* Response Message */}
@@ -97,9 +97,10 @@ export default function Home() {
 
           {/* Login Link */}
           <p className="text-center text-gray-600 text-sm mt-4">
-            Already have an account?
+            Not Have Account ,Register?
             <span className="text-purple-600 font-semibold cursor-pointer ml-1">
-              <Link href={"/login"}>Login</Link>
+
+            <Link href={'/'}> SignUp</Link>
             </span>
           </p>
 
