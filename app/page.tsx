@@ -1,42 +1,26 @@
-import Navbar from "@/components/Navbar"
+import Navbar from "@/components/ui/Navbar"
+import Link from "next/link"
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-gray-50">
-
+    <>
       <Navbar />
+      <div className="text-center py-20 bg-gray-100">
+        <h1 className="text-5xl font-bold text-blue-600">
+          Camp Management System </h1>
 
-      {/* Hero Section */}
-      <section className="flex flex-col items-center justify-center text-center mt-24 px-6">
-
-        <h1 className="text-5xl font-bold text-gray-800">
-          Camp Management System
-        </h1>
-
-        <p className="mt-6 text-lg text-gray-600 max-w-xl">
-          Manage healthcare camps, patient registrations, and volunteer activities easily in one platform.
+        <p className="mt-4 text-gray-600 text-lg">
+          Manage medical camps and patient records digitally.
         </p>
 
-        <div className="flex gap-4 mt-8">
-
-          <a
-            href="/login"
-            className="bg-blue-600 text-white px-6 py-3 rounded-md hover:bg-blue-700"
-          >
+        <div className="mt-6">
+          <Link href="/login"
+            className="bg-blue-600 text-white px-6 py-3 rounded-lg">
             Get Started
-          </a>
-
-          <a
-            href="/signup"
-            className="border border-gray-400 px-6 py-3 rounded-md hover:bg-gray-100"
-          >
-            Create Account
-          </a>
-
+            </Link>
+        </div>
         </div>
 
-      </section>
-
-    </main>
+    </>
   )
 }
