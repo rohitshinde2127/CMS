@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [00:00:03.140] Server  LOG     ✓ Ready in 2.3s
 [00:00:34.723] Browser ERROR   {}
 [00:00:35.006] Browser ERROR   {}
@@ -14,3 +15,6 @@
 [00:00:56.579] Browser LOG     Signup error {}
 [00:00:57.526] Browser LOG     Signup error {}
 [00:01:03.289] Browser ERROR   {}
+=======
+[00:00:03.867] Server  LOG     ✓ Ready in 2.8s
+>>>>>>> afb9081d4a0c72940cacbe22d1190412d3915b26
