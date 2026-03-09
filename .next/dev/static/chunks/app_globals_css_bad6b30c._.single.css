@@ -52,7 +52,7 @@
 
 @layer theme {
   :root, :host {
-    --color-green-600: #00a544;
+    --color-red-600: #e40014;
     --color-teal-200: #96f7e4;
     --color-blue-400: #54a2ff;
     --color-blue-500: #3080ff;
@@ -62,7 +62,6 @@
     --color-gray-600: #4a5565;
     --color-gray-700: #364153;
     --color-gray-800: #1e2939;
-    --color-black: #000;
     --color-white: #fff;
     --spacing: .25rem;
     --container-4xl: 56rem;
@@ -84,7 +83,7 @@
 
   @supports (color: lab(0% 0 0)) {
     :root, :host {
-      --color-green-600: lab(59.0978% -58.6621 41.2579);
+      --color-red-600: lab(48.4493% 77.4328 61.5452);
       --color-teal-200: lab(90.7612% -33.1343 -.542295);
       --color-blue-400: lab(65.0361% -1.42062 -56.9803);
       --color-blue-500: lab(54.1736% 13.3368 -74.6839);
@@ -472,17 +471,8 @@
     background-color: var(--color-white);
   }
 
-  .bg-linear-to-r {
-    --tw-gradient-position: to right;
-  }
-
-  @supports (background-image: linear-gradient(in lab, red, red)) {
-    .bg-linear-to-r {
-      --tw-gradient-position: to right in oklab;
-    }
-  }
-
-  .bg-linear-to-r {
+  .bg-gradient-to-r {
+    --tw-gradient-position: to right in oklab;
     background-image: linear-gradient(var(--tw-gradient-stops));
   }
 
@@ -571,10 +561,6 @@
     font-weight: var(--font-weight-semibold);
   }
 
-  .text-black {
-    color: var(--color-black);
-  }
-
   .text-blue-600 {
     color: var(--color-blue-600);
   }
@@ -591,8 +577,8 @@
     color: var(--color-gray-800);
   }
 
-  .text-green-600 {
-    color: var(--color-green-600);
+  .text-red-600 {
+    color: var(--color-red-600);
   }
 
   .text-white {
