@@ -1,31 +1,16 @@
-[00:00:02.156] Server  LOG     ✓ Ready in 1490ms
-[00:00:30.580] Browser LOG     Signup error {}
-[00:00:30.833] Browser LOG     Signup error {}
-[00:00:30.833] Browser LOG     Signup error {}
-[00:00:31.119] Browser LOG     Signup error {}
-[00:00:31.280] Browser LOG     Signup error {}
-[00:00:31.447] Browser LOG     Signup error {}
-[00:00:32.909] Browser LOG     Signup error {}
-[00:00:33.164] Browser LOG     Signup error {}
-[00:00:33.164] Browser LOG     Signup error {}
-[00:00:33.425] Browser LOG     Signup error {}
-[00:00:48.460] Browser LOG     Signup error {}
-[00:00:48.787] Browser LOG     Signup error {}
-[00:00:48.787] Browser LOG     Signup error {}
-[00:00:48.787] Browser LOG     Signup error {}
-[00:00:48.925] Browser LOG     Signup error {}
-[00:00:49.073] Browser LOG     Signup error {}
-[00:00:50.793] Browser LOG     Signup error {}
-[00:00:50.968] Browser LOG     Signup error {}
-[00:00:51.140] Browser LOG     Signup error {}
-[00:00:51.140] Browser LOG     Signup error {}
-[00:00:51.268] Browser LOG     Signup error {}
-[00:00:51.405] Browser LOG     Signup error {}
-[00:00:53.131] Browser LOG     Signup error {}
-[00:01:02.857] Browser LOG     Signup error {}
-[00:01:03.122] Browser LOG     Signup error {}
-[00:01:03.441] Browser LOG     Signup error {}
-[00:01:08.257] Browser LOG     Signup error {}
-[00:01:08.554] Browser LOG     Signup error {}
-[00:01:09.893] Browser LOG     Signup error {}
-[00:01:10.040] Browser LOG     Signup error {}
+[00:00:03.140] Server  LOG     ✓ Ready in 2.3s
+[00:00:34.723] Browser ERROR   {}
+[00:00:35.006] Browser ERROR   {}
+[00:00:42.177] Browser ERROR   {}
+[00:00:43.727] Browser ERROR   {}
+[00:00:44.266] Browser ERROR   {}
+[00:00:45.571] Browser ERROR   {}
+[00:00:53.890] Browser LOG     Signup error {}
+[00:00:54.121] Browser LOG     Signup error {}
+[00:00:55.310] Browser LOG     Signup error {}
+[00:00:55.751] Browser ERROR   {}
+[00:00:56.093] Browser LOG     Signup error {}
+[00:00:56.093] Browser ERROR   {}
+[00:00:56.579] Browser LOG     Signup error {}
+[00:00:57.526] Browser LOG     Signup error {}
+[00:01:03.289] Browser ERROR   {}
